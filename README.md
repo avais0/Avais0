@@ -1,31 +1,102 @@
-[![MasterHead](https://camo.githubusercontent.com/537d514cd99ce010344f30c5a0e0492d03d3e04ecdcf87cb9392177c9fb9150a/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f415676587345672d79303152506a583944696735317474706775726c6c697630797175316c69666a6d736845614c48753430325f627346566a794b35463951736f316a6a6d2d70304f6d436e62554232684e59665271735f43484370674b5f5141657033324c6835634e6c2d322d3753434356436b6a4959437a34674c374c31493534517861687857755431393174414b43777430644a475a394e693655587a763044346d5066553242524f636e517946414a494257337573594b78565358464332512f7331363030302f776570696b2d2d3230323430363034303634323535564f31642e706e67)
-<h1 align="center">Hi 👋, I'm Avais Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avais0&label=Profile%20views&color=0e75b6&style=flat" alt="avais0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avais0" alt="avais0" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning *Html Css javascript*
-
-- 📫 How to reach me *qarnibaltistani@gmail.com*
-
+@@ -0,0 +1,124 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Avais+Ahmed" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+and+backend+developer+from+Bangladesh" alt="Typing SVG" /></a>
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/avais0/sharif-islam96403/blob/main/CatCode.gif">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="Avais Ahmed" /> </p>
+  <h3> Front-End- Developer || Self-Taught Developer || CS @ Python</h3>
+  
+  - Working on **Routine Scheduler** project using <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" align=center /></span>
+  - Exploring <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span> and <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="30" align="center" /></span>.
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://pk.linkedin.com/in/avais-ahmed-bbb99133b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/avais-ahmed-bbb99133b" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/183pqkfort/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/183pqkfort/?mibextid=wwxifr" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/skillup_coding1?igsh=mwdvmgixm21uytcydq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/skillup_coding1?igsh=mwdvmgixm21uytcydq%3d%3d&utm_source=qr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avais-ahmed-bbb99133b/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Avais Ahmed </a>
+<a href="https://www.instagram.com/skillup_coding1?igsh=mwdvmgixm21uytcydq%3d%3d&utm_source=qr/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Avais Ahmed</a>
 <a href="https://www.youtube.com/c/https://youtube.com/@skillup_coding1?si=el9ovbrztsywbwna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@skillup_coding1?si=el9ovbrztsywbwna" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avais0&show_icons=true&locale=en&layout=compact" alt="avais0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avais0&show_icons=true&locale=en" alt="avais0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avais0&" alt="avais0" /></p>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=qarnibaltistani@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Avais Ahmed</a>
+<hr>
+## 🚀💻 Technologies & Tools
+### <u> Languages: </u>
+<br>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</span>
+&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+&nbsp;
+<br>
+### <u> Front-End- Development: </u>
+<br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+&nbsp;
+<br>
+### <u> Version Control and Tools: </u>
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+<br>
+### <u> Operating Systems and Others: </u>
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+&nbsp;
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+&nbsp;
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+&nbsp;
+<br>
+### <u> Currently I'm learning: </u>
+<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+&nbsp;
+<br>
+### <u> In future, I will learn: </u>
+<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+&nbsp;
+<br>
+<hr>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+    <span style="display: inline-block;">
+        <a href="https://git.io/streak-stats" style="text-decoration: none;">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=avais0&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
+        </a>
+    </span>
+    <span style="display: inline-block; margin-left: 20px;">
+        <img alt="GIF" src="https://github.com/Avais0/blob/main/PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
+    </span>
+</div>
+------
+Credit: [Avais Ahmed](https://github.com/Avais0)
+last edit on 11/19/2024
