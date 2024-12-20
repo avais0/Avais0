@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Avais+Ahmed" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+frontend+developer+from+Pakistan" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avais0&label=Profile%20views&color=0e75b6&style=flat" alt="avais0" /> </p>
-<img align="right" alt="Coding" width="auto" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif"> 
+<img align="right" alt="Coding" width="400px" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avais0" alt="avais0" /></a> </p>
 
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avais-ahmed-bbb99133b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/avais-ahmed-bbb99133b/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/15gwzvz5ay/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15gwzvz5ay/?mibextid=wwxifr" height="30" width="40" /></a>
+<a href="https://pk.linkedin.com/in/avais-ahmed-bbb99133b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/avais-ahmed-bbb99133b" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/15gwzvz5ay/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15gwzvz5ay/?mibextid=wwxifr](https://www.facebook.com/share/15gWZvz5AY/?mibextid=wwXIfr" height="30" width="40" /></a>
 <a href="https://instagram.com/www.instagram.com/skillup_coding1?igsh=mwdvmgixm21uytcydq%3d%3d&utm_source=qr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/skillup_coding1?igsh=mwdvmgixm21uytcydq%3d%3d&utm_source=qr/" height="30" width="40" /></a>
 <a href="https://youtube.com/@skillup_coding1?si=X2eEi7witn1dYEiC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@skillup_coding1" height="30" width="40" /></a>
 </p>
