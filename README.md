@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on Html Css<br> I’m currently learning  Html Css and Javascript
 
+
+# 💫 About Me:
+🔭 I’m currently working on Html Css<br> I’m currently learning  Html Css and Javascript <img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="" width="500" height="600">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/15gWZvz5AY/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/skillup_coding1?igsh=mwdvmgixm21uytcydq%3d%3d&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://pk.linkedin.com/in/avais-ahmed-bbb99133b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avais0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCrZAogtIXDkeuQomwtL126Q) 
