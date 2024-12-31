@@ -31,15 +31,15 @@
 
 
 
-## <picture> <img src="https://github.com/avais0/avais0/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:qarnibaltistani@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/avais0"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/03430565116"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://pk.linkedin.com/in/avais-ahmed-bbb99133b)/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/share/18rVoZ3mUL/?mibextid=wwXIfr"<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" 
+	<a href="https://www.facebook.com/share/18rVoZ3mUL/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" 
         alt="Facebook"/></a>
-	<a href="https://youtube.com/@skillup_coding1?si=5E9hHeAgdR3txzXs"<img src="https://img.shields.io/badge/youtube-%23E4405F.svg?style=plastic&logo=youtube&logoColor=white" alt="Youtube"/></a>
+	<a href="https://youtube.com/@skillup_coding1?si=5E9hHeAgdR3txzXs"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?style=plastic&logo=youtube&logoColor=white" alt="Youtube"/></a>
 	<a href="https://www.snapchat.com/add/avais12?share_id=SqlW5otmTyqMaXcDv3CvRA&locale=en_PK"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 	<a href="https://youtube.com/@skillup_coding1?si=5E9hHeAgdR3txzXs"<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
@@ -77,7 +77,7 @@
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/avais0/avais0/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -85,11 +85,10 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
+
 </p>
 
- ### <picture> <img src = "https://github.com/Avais0/7avais0/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
