@@ -1,334 +1,321 @@
 <!-- ========================================================= -->
 
-<!--                    AVAIS AHMED MEHDI                     -->
+<!--              AVAIS AHMED MEHDI • PROFILE README          -->
 
-<!--              PREMIUM GITHUB PROFILE README                -->
+<!--              FULL ANIMATED PREMIUM EDITION               -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=AVAIS%20AHMED%20MEHDI&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=62&descSize=18&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=AVAIS%20AHMED%20MEHDI&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=20&descAlignY=60&animation=twinkling&color=0:0f0c29,45:302b63,100:7c3aed" width="100%"/>
 
 <br>
 
-<!-- TYPING ANIMATION -->
-
-<a href="https://github.com/avais0">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&height=55&lines=Full+Stack+Web+Developer;Building+Modern+%26+Scalable+Web+Applications;React.js+%7C+Next.js+%7C+Node.js+%7C+Python;Clean+Code+%7C+Modern+UI+%7C+Powerful+Backend;Turning+Ideas+Into+Digital+Experiences" alt="Typing Animation"/>
-
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Hey+%F0%9F%91%8B+I'm+Avais+Ahmed+Mehdi;Full+Stack+Web+Developer+%F0%9F%92%BB;I+Build+Modern+%26+Scalable+Web+Apps+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated Typing"/>
 
 <br><br>
 
-<!-- PROFILE BADGES -->
+<img src="https://komarev.com/ghpvc/?username=avais0&label=VISITORS&style=for-the-badge&color=7c3aed"/>
 
-<img src="https://komarev.com/ghpvc/?username=avais0&label=PROFILE%20VIEWS&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/avais0?style=for-the-badge&logo=github&label=FOLLOWERS&color=302b63"/>
 
-<a href="https://github.com/avais0?tab=followers">
-<img src="https://img.shields.io/github/followers/avais0?label=FOLLOWERS&style=for-the-badge&logo=github&color=24243e" alt="Followers"/>
-</a>
-
-<a href="https://github.com/avais0?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-Explore-7c3aed?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
+<img src="https://img.shields.io/github/stars/avais0?style=for-the-badge&logo=github&label=STARS&color=7c3aed"/>
 
 </div>
 
 ---
-
-## 👨‍💻 About Me
-
-<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation"/>
-
-Hi! I'm **Avais Ahmed Mehdi**, a passionate **Full Stack Web Developer** who enjoys creating modern, responsive and high-performance web applications.
-
-I love working across both frontend and backend, turning ideas into real-world digital products with clean architecture and intuitive user experiences.
-
-### ⚡ Quick Facts
-
-* 🎓 **BS Computer Science (BSCS)**
-* 💻 **Full Stack Web Developer**
-* 🚀 Focused on modern web technologies
-* 🧠 Interested in scalable application architecture
-* ⚡ Passionate about clean & maintainable code
-* 🌍 Open to remote opportunities
-
-<br clear="right"/>
-
----
-
-## 🚀 What I Do
 
 <div align="center">
 
-| 💻 Frontend | ⚙️ Backend | 🗄️ Database | 🚀 Deployment |
-| :---------: | :--------: | :----------: | :-----------: |
-|   React.js  |   Node.js  |    MongoDB   |     Vercel    |
-|   Next.js   | Express.js |     MySQL    |     Render    |
-|  JavaScript |   Python   |    SQLite    |     GitHub    |
-|  TypeScript |   Django   |  PostgreSQL  |     CI/CD     |
+## ⚡ WHO AM I?
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&height=45&lines=Code+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Repeat;Creating+clean%2C+fast+and+scalable+applications;Always+learning.+Always+building." alt="Developer Animation"/>
 
 </div>
 
----
-
-## 🛠️ Tech Stack
+<br>
 
 <div align="center">
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&perline=6" />
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=6" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&perline=7" />
+|     🎓 Education    |        💻 Role       |     🚀 Focus    | 🌍 Availability |
+| :-----------------: | :------------------: | :-------------: | :-------------: |
+| BS Computer Science | Full Stack Developer | Modern Web Apps |      Remote     |
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
+# 🧬 My Developer Universe
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,mongodb,mysql,git,github,docker,vscode&perline=8"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=1800&pause=500&color=7C3AED&center=true&vCenter=true&width=700&height=40&lines=Frontend+%E2%9A%A1;Backend+%E2%9A%99%EF%B8%8F;Databases+%F0%9F%97%84%EF%B8%8F;DevOps+%F0%9F%9A%80;AI+%F0%9F%A4%96" alt="Skills Animation"/>
+
+</div>
+
+---
+
+# 🎯 Currently Building
 
 <div align="center">
 
 ```text
-████████████████████████████████████████  Advanced Web Development
-██████████████████████████████████████░░  Next.js & Modern Architecture
-████████████████████████████████████░░░░  Docker & CI/CD
-██████████████████████████████████░░░░░░  Cloud Technologies
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   🚀  FULL STACK APPLICATIONS                          │
+│                                                        │
+│   ⚛️   MODERN REACT / NEXT.JS EXPERIENCES              │
+│                                                        │
+│   🤖  AI POWERED WEB APPLICATIONS                     │
+│                                                        │
+│   ☁️   CLOUD & DEPLOYMENT                              │
+│                                                        │
+│   🧠  SCALABLE BACKEND ARCHITECTURE                   │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-* 🔥 Advanced Next.js
-* ☁️ Cloud & deployment technologies
-* 🐳 Docker & containerization
-* 🔄 CI/CD pipelines
-* 🧩 Scalable backend architecture
-* 🤖 AI-powered web applications
+---
+
+# 🔥 Tech Stack — Animated Wall
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&perline=6"/>
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=6"/>
+
+<br><br>
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&perline=7"/>
+
+</div>
 
 ---
 
-## 💎 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 Modern E-Commerce Platform
+<div align="center">
 
-> Full-stack e-commerce platform with authentication, dynamic products, dashboard and payment integration.
+### 🛒 E-Commerce Platform
 
-**Tech:** `Next.js` `TypeScript` `Node.js` `MongoDB` `Tailwind CSS`
+<img src="https://img.shields.io/badge/FULL%20STACK-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br>
+
+Modern e-commerce platform with authentication, products,
+dashboard and scalable backend architecture.
+
+<br>
 
 <a href="https://github.com/avais0">
-<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-181717?style=for-the-badge"/>
 </a>
 
 ---
 
-### ⚡ SaaS Task Management System
+### ⚡ SaaS Task Manager
 
-> Collaborative task management platform with Kanban boards, role-based access and real-time updates.
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio"/>
 
-**Tech:** `React.js` `Express.js` `PostgreSQL` `Socket.io`
+<br>
+
+Real-time task management system with collaborative
+workflows and role-based access.
+
+<br>
 
 <a href="https://github.com/avais0">
-<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡%20VIEW%20PROJECT-181717?style=for-the-badge"/>
 </a>
 
 ---
 
 ### 🤖 AI Content Generator
 
-> AI-powered dashboard capable of generating content, metadata and social media ideas.
-
-**Tech:** `Python` `Django` `React.js` `AI API`
-
-<a href="https://github.com/avais0">
-<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 🧩 Competitive Programming
-
-> Collection of algorithms, data structures, competitive programming templates and problem solutions.
-
-**Tech:** `C++` `Python` `Data Structures` `Algorithms`
-
-<a href="https://github.com/avais0/LeetCode_DailyChallenge_2024">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/avais0/CP-Templates">
-<img src="https://img.shields.io/badge/CP%20TEMPLATES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/avais0">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=avais0&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true"/>
-</a>
-
-<a href="https://github.com/avais0">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avais0&layout=compact&hide_border=true&theme=tokyonight"/>
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
 
 <br>
 
-<div align="center">
+AI-powered platform for generating content,
+metadata and social media ideas.
+
+<br>
 
 <a href="https://github.com/avais0">
-<img src="https://streak-stats.demolab.com?user=avais0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/🤖%20VIEW%20PROJECT-181717?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Command Center
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=avais0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+<a href="https://github.com/avais0">
+<img src="https://github-readme-stats.vercel.app/api?username=avais0&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+</a>
+
+<a href="https://github.com/avais0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avais0&layout=compact&hide_border=true&theme=tokyonight"/>
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=avais0&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://github-profile-trophy.vercel.app/?username=avais0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avais0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 📂 My Repositories
-
-<details>
-<summary><b>🚀 Click to Explore My Repositories</b></summary>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <br>
 
-### 🧠 LeetCode Daily Challenge
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=600&height=35&lines=Every+commit+counts+%F0%9F%90%8D;Keep+coding+%F0%9F%94%A5;Keep+building+%F0%9F%9A%80" alt="Snake Caption"/>
 
-Daily programming problems and algorithm solutions.
-
-🔗 https://github.com/avais0/LeetCode_DailyChallenge_2024
+</div>
 
 ---
 
-### 🧪 Stress Testing Framework
+# 🌌 Contribution Universe
 
-Automated testcase generation and comparison framework.
+<div align="center">
 
-🔗 https://github.com/avais0/Strees_Testing
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avais0&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 
----
-
-### ⚡ CP Templates
-
-Reusable competitive programming templates.
-
-🔗 https://github.com/avais0/CP-Templates
+</div>
 
 ---
 
-### 🏗️ Codeforces Polygon Template
-
-Starter template for creating Codeforces problems.
-
-🔗 https://github.com/avais0/Codeforces-Polygon-Template
-
-</details>
-
----
-
-## 🎯 2026 Goals
+# 🧠 Developer Roadmap
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                  MY 2026 ROADMAP                     ║
-╠══════════════════════════════════════════════════════╣
-║  🚀 Build Production-Ready SaaS Applications         ║
-║  🌐 Contribute to Open Source                        ║
-║  🤖 Build AI-Powered Web Applications                ║
-║  ☁️ Improve Cloud & DevOps Skills                     ║
-║  💼 Work With Global Clients                          ║
-║  🧠 Become a Better Software Engineer                 ║
-╚══════════════════════════════════════════════════════╝
+                  AVAIS • 2026
+                       │
+          ┌────────────┴────────────┐
+          ▼                         ▼
+     FULL STACK                  AI / ML
+          │                         │
+          ▼                         ▼
+     NEXT.JS / NODE             AI APPS
+          │                         │
+          └────────────┬────────────┘
+                       ▼
+                  CLOUD / DEVOPS
+                       │
+                       ▼
+                PRODUCTION APPS
+                       │
+                       ▼
+                 OPEN SOURCE
 ```
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Competitive Programming
+
+<div align="center">
+
+<a href="https://github.com/avais0/LeetCode_DailyChallenge_2024">
+<img src="https://img.shields.io/badge/LEETCODE%20DAILY-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/avais0/CP-Templates">
+<img src="https://img.shields.io/badge/CP%20TEMPLATES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/avais0/Codeforces-Polygon-Template">
+<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://pk.linkedin.com/in/avais-ahmed-bbb99133">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:qarnibaltistani@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/avais0">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-## 💭 Developer Mindset
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Code. Create. Learn. Repeat." ⚡
-
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:24243e,50:302b63,100:0f0c29&section=footer" width="100%"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+amazing+%F0%9F%9A%80;Code+%E2%80%A2+Create+%E2%80%A2+Innovate+%E2%80%A2+Repeat" alt="Footer Animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:0f0c29,50:302b63,100:7c3aed" width="100%"/>
 
 </div>
+
+<!-- ========================================================= -->
+
+<!--                    END OF README                          -->
+
+<!-- ========================================================= -->
